@@ -1,0 +1,7 @@
+EXCEL DATA ANALYSIS 
+
+step 1: cleaning the dataset for analysis
+step 2: conditional formatting (MPG)
+step 3: sorting and filtering (cylinders)
+step 4: creating a pivot table
+
